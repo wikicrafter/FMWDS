@@ -41,10 +41,7 @@
 <li>
 <p><strong>What is a DNS request?</strong> A DNS (Domain Name System) request is a query sent by a computer to translate a human-readable domain name (e.g., google.com) into an IP address that computers can understand.</p>
 </li>
-<li>
-<p><strong>Which browser are you currently using?</strong> I am a text-based AI and do not have a web browser.</p>
-</li>
-<li>
+
 <p><strong>Explain what happens when you run a search on google.com.</strong> When you search on Google, your query is sent to Google's servers. These servers use complex algorithms to search through their vast index of web pages, ranking relevant results. The results are then displayed on your screen, with the most relevant websites listed first.</p>
 </li>
 </ol>
