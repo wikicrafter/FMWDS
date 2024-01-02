@@ -1,3 +1,6 @@
+
+#2
+
 * What is the purpose of the doctype declaration?
 
 The ```<!DOCTYPE html>``` declaration specifies the HTML version and helps browsers render web pages correctly by indicating the document type and version. It ensures consistent and standardized interpretation of HTML code across different browsers.
