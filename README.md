@@ -12,6 +12,7 @@
 
 ___
 HTML Basics
+
 [Elements and Tags](RWL/HTML/1_ElementsAndTags.md) 
 
 [Boilerplate](RWL/HTML/2_Boilerplate.md)
@@ -22,7 +23,9 @@ HTML Basics
 
 [Links and Images](RWL/HTML/5_LinksAndImages.md)
 ___
+
 CSS Basics
+
 [Intro 2 CSS](RWL/CSS_Foundation/1_Intro2CSS.md)
 
 [Cascade](RWL/CSS_Foundation/2_Cascade.md)
