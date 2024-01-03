@@ -150,6 +150,7 @@ How do you create a flex item?
 To create a flex item, designate an element as a child of a flex container and apply the display: flex; property to the container. The child element automatically becomes a flex item.
 
 Example:
+
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -177,7 +178,6 @@ Example:
   </div>
 </body>
 </html>
-
 
 ```
 
