@@ -32,7 +32,8 @@ Code:
 6. What relationship do two elements have if they are at the same level of nesting?
 If two elements are at the same level of nesting, they are siblings.
 Code:
-``` <div>
+```
+ <div>
   <p>This is a sibling paragraph.</p>
   <p>Another sibling paragraph.</p>
 </div>  
